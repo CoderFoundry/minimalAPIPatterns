@@ -27,7 +27,7 @@ Watch the full walkthrough on YouTube:
 
 ### Prerequisites
 
-- [.NET 10 SDK](https://dotnet.microsoft.com/download/dotnet/10.0) or later  
+- [.NET 10 Preview 5 SDK](https://dotnet.microsoft.com/download/dotnet/10.0) or later  
 - Visual Studio 2022 preview / Visual Studio Code  
 
 ### Running the Examples
