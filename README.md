@@ -59,7 +59,7 @@ public static class CustomerEndpoints
     {
         var group = route.MapGroup("/customers").WithTags("Customers");
 
-        group.MapGet("", GetCustomers)
+        group.MapGet("", GetCustomers);
         group.MapGet("{id:int}", GetCustomerById);
         group.MapPost("", CreateCustomer);
         group.MapPut("{id:int}", UpdateCustomer);
