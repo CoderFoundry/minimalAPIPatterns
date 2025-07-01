@@ -1,5 +1,4 @@
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Options;
 using minimalAPIStructure.Models;
 using MinimalAPIStructure.Models;
 
