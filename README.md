@@ -1,4 +1,4 @@
-# minimalAPIPatterns
+# Minimal API Patterns
 
 A demonstration of two patterns for structuring ASP.NET Core Minimal APIs using extension methods.
 These are examples of common project structures with the goal of demonstrating how to define
