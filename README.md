@@ -19,7 +19,7 @@ This repository showcases three extension methods:
 
 Watch the full walkthrough on YouTube:
 
-[![Minimal API Patterns Walkthrough](https://img.youtube.com/vi/aK1BXeorIZ8/maxresdefault.jpg)](https://www.youtube.com/watch?v=aK1BXeorIZ8)
+[Minimal API Patterns Walkthrough](https://www.youtube.com/watch?v=aK1BXeorIZ8)
 
 
 
